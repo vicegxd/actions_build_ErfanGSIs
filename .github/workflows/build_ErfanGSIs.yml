@@ -14,7 +14,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://bigota.d.miui.com/22.1.5/miui_CEZANNE_22.1.5_61a56854c7_11.0.zip
+  ROM_URL: http://bigota.d.miui.com/22.1.5/miui_CEZANNE_22.1.5_61a56854c7_11.0.zip
   ROM_NAME: MIUI
   BUILD_TYPE: a
   TZ: Asia/Shanghai
