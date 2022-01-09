@@ -3,15 +3,13 @@ name: build_ErfanGSIs
 on:
 #  release:
 #    types: [published]
-#  push:
-#    branches:
-#      - master
+ push:
+   branches:
+     - master
 #    paths:
 #      - '.config'
 #  schedule:
 #    - cron: 0 8 * * 5
-  watch:
-    types: [started]
     
 env:
   ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu18X/9.2.3.1/cn/20211115113735/fdbf5147/update.zip
