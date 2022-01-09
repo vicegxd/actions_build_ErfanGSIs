@@ -12,8 +12,8 @@ on:
 #    - cron: 0 8 * * 5
     
 env:
-  ROM_URL: https://firmware.meizu.com/Firmware/Flyme/meizu18X/9.2.3.1/cn/20211115113735/fdbf5147/update.zip
-  ROM_NAME: Flyme
+  ROM_URL: https://pan.gimhoy.com/download/MzE5O2xvdmVjei1LMjBQLTAxMDUtTUlVSTEzXzRiNGYyMzdkXzExLjAuemlwOzE7MDsxNDM4MTYzMTY3NDU4Nzc.zip
+  ROM_NAME: MIUI
   BUILD_TYPE: a
   TZ: Asia/Shanghai
 
