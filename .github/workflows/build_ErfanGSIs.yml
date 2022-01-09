@@ -12,9 +12,9 @@ on:
 #    - cron: 0 8 * * 5
     
 env:
-  ROM_URL: https://pan.gimhoy.com/download/MzE5O2xvdmVjei1LMjBQLTAxMDUtTUlVSTEzXzRiNGYyMzdkXzExLjAuemlwOzE7MDsxNDM4MTYzMTY3NDU4Nzc.zip
-  ROM_NAME: MIUI
-  BUILD_TYPE: a
+  ROM_URL: https://oxygenos.oneplus.net/OnePlus7ProOxygen_21.O.07_OTA_007_all_1905120542_fc480574576b4843.zip
+  ROM_NAME: OxygenOS
+  BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
 jobs:
